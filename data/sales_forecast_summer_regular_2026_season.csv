@@ -1,0 +1,45 @@
+salesDate,articleGroupDescription,brandDescription,Inhouse_Brand,quantity,category,retailPrice,season
+2026-12-31,Jack outdoor,Campbell,Internal,1962.0,Forecasted Sales,147329.56,Summer
+2026-12-31,Jack outdoor,Donkervoort,Internal,218.0,Forecasted Sales,10704.45,Summer
+2026-12-31,Jack outdoor,Dutch Dandies,Internal,1.0,Forecasted Sales,249.1,Summer
+2026-12-31,Jack outdoor,J.C. RAGS,Internal,521.0,Forecasted Sales,25291.21,Summer
+2026-12-31,Jack outdoor,Others,External,5019.0,Forecasted Sales,1250232.9,Summer
+2026-12-31,Short,Campbell,Internal,2711.0,Forecasted Sales,87032.13,Summer
+2026-12-31,Short,Donkervoort,Internal,564.0,Forecasted Sales,17146.5,Summer
+2026-12-31,Short,Dutch Dandies,Internal,158.0,Forecasted Sales,7176.19,Summer
+2026-12-31,Short,J.C. RAGS,Internal,900.0,Forecasted Sales,37681.6,Summer
+2026-12-31,Short,Others,External,10148.0,Forecasted Sales,897083.2,Summer
+2026-12-31,Swim short,Donkervoort,Internal,949.0,Forecasted Sales,18033.07,Summer
+2026-12-31,Swim short,J.C. RAGS,Internal,496.0,Forecasted Sales,17828.3,Summer
+2026-12-31,Swim short,Others,External,3927.0,Forecasted Sales,211665.3,Summer
+2026-12-31,Mix & match trousers,Dutch Dandies,Internal,1152.0,Forecasted Sales,83383.62,Summer
+2026-12-31,Mix & match trousers,Others,External,2121.0,Forecasted Sales,307757.1,Summer
+2026-12-31,Mix & match trousers,Recall,Internal,500.0,Forecasted Sales,19532.57,Summer
+2026-12-31,Mix & match trousers,Runway PARTY,Internal,1875.0,Forecasted Sales,174722.74,Summer
+2026-12-31,Mix & match trousers,The BLUEPRINT Premium,Internal,603.0,Forecasted Sales,44053.05,Summer
+2026-12-31,Polo SS,Campbell,Internal,8194.0,Forecasted Sales,319354.72,Summer
+2026-12-31,Polo SS,Donkervoort,Internal,1895.0,Forecasted Sales,88880.25,Summer
+2026-12-31,Polo SS,Dutch Dandies,Internal,2548.0,Forecasted Sales,173562.56,Summer
+2026-12-31,Polo SS,J.C. RAGS,Internal,1700.0,Forecasted Sales,79110.22,Summer
+2026-12-31,Polo SS,Others,External,32158.0,Forecasted Sales,2659466.6,Summer
+2026-12-31,Polo SS,The BLUEPRINT Premium,Internal,5761.0,Forecasted Sales,163774.23,Summer
+2026-12-31,Tie,Dutch Dandies,Internal,362.0,Forecasted Sales,13728.85,Summer
+2026-12-31,Tie,Others,External,3376.0,Forecasted Sales,169475.2,Summer
+2026-12-31,Others,Dutch Dandies,Internal,15.0,Forecasted Sales,8405.59,Summer
+2026-12-31,Others,J.C. RAGS,Internal,29.0,Forecasted Sales,703.54,Summer
+2026-12-31,Others,Others,External,411.0,Forecasted Sales,12576.6,Summer
+2026-12-31,Others,The BLUEPRINT Premium,Internal,502.0,Forecasted Sales,16182.16,Summer
+2026-12-31,Sneakers,Campbell,Internal,131.0,Forecasted Sales,4828.57,Summer
+2026-12-31,Sneakers,Donkervoort,Internal,102.0,Forecasted Sales,4443.8,Summer
+2026-12-31,Sneakers,Dutch Dandies,Internal,34.0,Forecasted Sales,2903.14,Summer
+2026-12-31,Sneakers,J.C. RAGS,Internal,312.0,Forecasted Sales,19819.6,Summer
+2026-12-31,Sneakers,Others,External,10648.0,Forecasted Sales,1828261.6,Summer
+2026-12-31,T-shirt SS,Campbell,Internal,2219.0,Forecasted Sales,57123.33,Summer
+2026-12-31,T-shirt SS,Donkervoort,Internal,1798.0,Forecasted Sales,55354.29,Summer
+2026-12-31,T-shirt SS,Dutch Dandies,Internal,600.0,Forecasted Sales,22626.17,Summer
+2026-12-31,T-shirt SS,J.C. RAGS,Internal,4823.0,Forecasted Sales,139685.46,Summer
+2026-12-31,T-shirt SS,Others,External,29486.0,Forecasted Sales,1518529.0,Summer
+2026-12-31,Casual shirt SS,Campbell,Internal,8708.0,Forecasted Sales,314642.52,Summer
+2026-12-31,Casual shirt SS,J.C. RAGS,Internal,1262.0,Forecasted Sales,57945.17,Summer
+2026-12-31,Casual shirt SS,Others,External,7460.0,Forecasted Sales,594562.0,Summer
+2026-12-31,Casual shirt SS,The BLUEPRINT Premium,Internal,296.0,Forecasted Sales,8445.86,Summer
